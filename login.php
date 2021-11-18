@@ -61,7 +61,7 @@ span.psw {
 
 <h2 align='center'>Login Form</h2>
 
-<form action="/portfolio.html" method="post">
+<form action="/fort.html" method="post">
   <div class="imgcontainer">
     <img src="https://images7.alphacoders.com/984/thumb-1920-984696.png" alt="Avatar" class="avatar">
   </div>
