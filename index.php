@@ -64,7 +64,7 @@ width: 100%;
 </div>
 <h2>Login Form</h2>
 
-<form action="/avatar1.php" method="post">
+<form action="avatar1.php" method="post">
 Username<input type="text" name="userid"/>
 Password<input type="password" name="pswrd"/>
 <input type="button" onclick="check(this.form)" value="Login"/>
