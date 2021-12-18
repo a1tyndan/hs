@@ -16,9 +16,9 @@ border-radius: 40%;
 <h3 align='center' style="color: gold;"> my number:+996999196196 </h3>
 <h3 align='center' style="color: gold;"> my adress:Ak-ordo 3/4 </h3>
 <div align = 'center'>
-<a href="https://vm.tiktok.com/ZSeraL6uL/ "> <img src="https://2.bp.blogspot.com/-gFsA2g18lWQ/XD-ZejQyrfI/AAAAAAAAG6w/98a75D-YjRYMrg73zZ0UUfqdstQS7YBbwCK4BGAYYCw/s640/Logo%2BTiktok.pngs" width="48" alt=""></a>
-<a href="https://instagram.com/a1tynbekov?r=nametag"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" width="50"  alt=""></a>
-<a href="https://vm.tiktok.com/ZSeraL6uL/ "> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQda31BemM-0Ynwqu9jsS5loxyMqN9yYqjLw&usqp=CAU" width="48" alt=""></a>
+<a> <img src="https://2.bp.blogspot.com/-gFsA2g18lWQ/XD-ZejQyrfI/AAAAAAAAG6w/98a75D-YjRYMrg73zZ0UUfqdstQS7YBbwCK4BGAYYCw/s640/Logo%2BTiktok.pngs" width="48" alt=""></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" width="50"  alt=""></a>
+<a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQda31BemM-0Ynwqu9jsS5loxyMqN9yYqjLw&usqp=CAU" width="48" alt=""></a>
 </div>
 <style>
 .line {
