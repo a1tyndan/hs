@@ -1,45 +1,27 @@
 <!DOCTYPE html>
-<html>
-<title> fortLibrary </title>
+<html lang="en">
 <head>
-
-<link rel="stylesheet" href="css/style.css">
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Rowdies&display=swap" rel="stylesheet">
-<div class="shirina">
-    <div class="container">
-        <body class="play">
-        <h1>FortLibrary</h1>
-    </div>
-</div>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"> 
+    <title>Document</title>
+</head>
+<body >  
+    <h1 class="za">Fort Library</h1>
+
 </body>
+</html>
 
 
-body{
-    font-family: 'Rowdies', cursive;
-    font-size: 40px;
-    color: darkred;
-    margin: 0%;
+
+#css
+.za {
+    color: maroon;
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
 }
-*,
-*:before,
-*:after
-{
-    box-sizing: border-box;
-}
-/*содержание*/
-.container{
-    width: 100px;
-    max-width: 1200px;
-    margin: 0 autos ;
-}
-/*ширина*/
-.shirina{
-    width: 100px;
-    height: 1000vh;
-}
-h1,h2,h3,h4,h5,h6{
-    margin: 0;
+h1,h2,h3,h4,h5,h6 {
+    margin:0%
 }
