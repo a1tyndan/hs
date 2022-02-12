@@ -1,4 +1,3 @@
-!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,13 +5,44 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"> 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rowdies:wght@700&display=swap" rel="stylesheet">
 </head>
 <div class="step1">
+    <body background: url(https://www.ubackground.com/_ph/18/557051867.jpg) no-repeat;>  
     <div class="back">
-        <body >  
         <h1 class="za">Fort Library</h1>
+        <ul class="menu"> 
+            <li>
+                <a href="">
+                    Home
+                </a>
+            </li>
+            <li>
+                <a href="">
+                    About books
+                </a>
+            </li>
+            <li>
+                <a href="">
+                    authors
+                </a>
+            </li>
+            <li>
+                <a href="">
+                    contacts
+                </a>
+            </li>
+        </ul>
     </div>
-</body>
+    <div class="offer">
+        <p align=" center" class="rek">The best library website</p>
+        <h1 class="rek2">You can install our app from: </h1>
+        <a class="appstore"> <img src="https://freepngimg.com/download/android/58651-play-google-get-started-app-android-now.png" alt="https://apps.apple.com/kg/app/apple-books/id364709193"></a>
+        <p class="playmarket"> <img src=''></p>
+    </div>
+    </body>
 </div>
 </html>
 
@@ -21,7 +51,6 @@
 
 #css
 .step1{
-    background: url(https://images4.alphacoders.com/110/thumb-1920-1107815.jpg) no-repeat;
     width:100%;
     max-width: 1600px;
     margin: 0 auto;
@@ -29,10 +58,43 @@
 .za {
     color: gold;
     font-family: 'Lobster', cursive;
-    font-size: 70px;
+    font-size: 90px;
     
 
 }
 h1,h2,h3,h4,h5,h6 {
     margin:0%
+}
+ul,li{
+    display: block;
+}
+header a {
+    color: gold;
+}
+.menu{
+    display: flex;
+    font-family: 'Rowdies', cursive;
+}
+.menu li a {
+    color: gold;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 25px;
+}
+.menu li{
+    margin-left: 60px;
+}
+.back {
+    display: flex;
+    align-items: center;
+}
+.rek{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Rowdies', cursive;
+    font-size: 45px;
+    color: gold;
+}
+.rek2{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Rowdies', cursive;
 }
