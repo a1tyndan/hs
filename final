@@ -1,100 +1,339 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"> 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rowdies:wght@700&display=swap" rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="./style/style.css">
 </head>
-<div class="step1">
-    <body background: url(https://www.ubackground.com/_ph/18/557051867.jpg) no-repeat;>  
-    <div class="back">
-        <h1 class="za">Fort Library</h1>
-        <ul class="menu"> 
-            <li>
-                <a href="">
-                    Home
-                </a>
-            </li>
-            <li>
-                <a href="">
-                    About books
-                </a>
-            </li>
-            <li>
-                <a href="">
-                    authors
-                </a>
-            </li>
-            <li>
-                <a href="">
-                    contacts
-                </a>
-            </li>
-        </ul>
-    </div>
-    <div class="offer">
-        <p align=" center" class="rek">The best library website</p>
-        <h1 class="rek2">You can install our app from: </h1>
-        <a class="appstore"> <img src="https://freepngimg.com/download/android/58651-play-google-get-started-app-android-now.png" alt="https://apps.apple.com/kg/app/apple-books/id364709193"></a>
-        <p class="playmarket"> <img src=''></p>
-    </div>
-    </body>
-</div>
+<body>
+<section class="hero ">
+    <div class="header container d-flex justify-between align-center">
+        <div class="header_title">Winnie Pie</div>
+    <nav class="header_navbar">
+            <a href="#">Home</a>
+            <a href="#">About me</a>
+            <a href="#">My works</a>
+            <a href="#">Skills</a>
+            <a href="#">Contact Me</a>
+    </nav>    graphic designer. <br>I consider myself a creative person, 
+                so I chose the future profession in the same way.</p>
+                <img src="./images/qwe.jpeg" alt="" class="about_img" >
+           </div>
+   </section>
+   <section class="skills">
+   <div class="container"></div>          
+      <h1 class="headings">SKILLS</h1>
+      <div class="row">
+          <div class="box">
+              <h1 class="headings">Adobe Illustrator</h1>
+              <p>70%</p>
+            
+          </div>
+
+          <div class="box">
+            <h1 class="headings">Adobe Photoshop</h1>
+            <p>80%</p>
+          
+        </div>
+
+        <div class="box">
+            <h1 class="headings">Adobe After Effects</h1>
+            <p>85%</p>
+          
+        </div>
+        <div class="box">
+            <h1 class="headings">HTML</h1>
+            <p>50%</p>
+      </div>
+      <div class="box">
+        <h1 class="headings">JavaScript</h1>
+        <p>30%</p>
+  </div>
+  
+   </section>
+
+   <section id="My works">
+    <h1 class="headings">My Works</h1>
+     <div class="gallery">
+         <img src="gkgjgj.jpeg" alt="">
+         <img src="h dfjh.jpeg" alt="">
+         <img src="pppp.jpeg" alt="">
+         
+
+     </div>
+
+   <section id="contact">
+       <h1 class="headings">CONTACT ME</h1>
+        <form action="" class="form">
+            <input type="text" name="name" class="input" placeholder="Enter your name">
+            <input type="email" name="email" class="input" placeholder="Enter your email">
+            <textarea name="msg" id="msg" cols="30" rows="10" placeholder="Enter your message"></textarea>
+            <input type="submit" value="SEND" id="">
+        </form>
+   </section>
+
+</body>
+</html>   <h2>Aliia Amatova Des-20b</h2>
+               <p>I'm 17 years old <br>I'm studying at "Ala-Too" college as 
+                graphic designer. <br>I consider myself a creative person, 
+                so I chose the future profession in the same way.</p>
+                <img src="./images/qwe.jpeg" alt="" class="about_img" >
+           </div>
+   </section>
+   <section class="skills">
+   <div class="container"></div>          
+      <h1 class="headings">SKILLS</h1>
+      <div class="row">
+          <div class="box">
+              <h1 class="headings">Adobe Illustrator</h1>
+              <p>70%</p>
+            
+          </div>
+
+          <div class="box">
+            <h1 class="headings">Adobe Photoshop</h1>
+            <p>80%</p>
+          
+        </div>
+
+        <div class="box">
+            <h1 class="headings">Adobe After Effects</h1>
+            <p>85%</p>
+          
+        </div>
+        <div class="box">
+            <h1 class="headings">HTML</h1>
+            <p>50%</p>
+      </div>
+      <div class="box">
+        <h1 class="headings">JavaScript</h1>
+        <p>30%</p>
+  </div>
+  
+   </section>
+
+   <section id="My works">
+    <h1 class="headings">My Works</h1>
+     <div class="gallery">
+         <img src="gkgjgj.jpeg" alt="">
+         <img src="h dfjh.jpeg" alt="">
+         <img src="pppp.jpeg" alt="">
+         
+
+     </div>
+
+   <section id="contact">
+       <h1 class="headings">CONTACT ME</h1>
+        <form action="" class="form">
+            <input type="text" name="name" class="input" placeholder="Enter your name">
+            <input type="email" name="email" class="input" placeholder="Enter your email">
+            <textarea name="msg" id="msg" cols="30" rows="10" placeholder="Enter your message"></textarea>
+            <input type="submit" value="SEND" id="">
+        </form>
+   </section>
+
+</body>
 </html>
+<!-- переделал немного inst:ex1jame_gh -->
 
 
 
 
 #css
-.step1{
-    width:100%;
-    max-width: 1600px;
-    margin: 0 auto;
-}
-.za {
-    color: gold;
-    font-family: 'Lobster', cursive;
-    font-size: 90px;
-    
 
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat,sans-serif;
 }
-h1,h2,h3,h4,h5,h6 {
-    margin:0%
+*{
+    padding: 0;
+    margin: 0;
 }
-ul,li{
-    display: block;
-}
-header a {
-    color: gold;
-}
-.menu{
-    display: flex;
-    font-family: 'Rowdies', cursive;
-}
-.menu li a {
-    color: gold;
-    text-transform: uppercase;
+a{
     text-decoration: none;
-    font-size: 25px;
+    color: inherit;
 }
-.menu li{
-    margin-left: 60px;
+
+/* basic conf */
+.container{
+    margin: 0 auto;
+    width: 1070px;
+    height: 100%;
 }
-.back {
+.d-flex{
     display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.align-center{
     align-items: center;
 }
-.rek{
-    font-family: 'Bebas Neue', cursive;
-    font-family: 'Rowdies', cursive;
-    font-size: 45px;
-    color: gold;
+/* hero section */
+.hero{
+    background: url(../images/resume_bg.png) no-repeat center/cover;
+    height: 100vh;
+} 
+.header{
+    height: 100px;
+    
 }
-.rek2{
-    font-family: 'Bebas Neue', cursive;
-    font-family: 'Rowdies', cursive;
+.header_title{
+    font-family: Montserrat,sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0.1px;
+color: #252B42;
+} 
+/* Navbar */
+.header_navbar{
+font-family: OpenSans,sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 14px;
+letter-spacing: 1.09091px;
+color: #48555B;
 }
+.header_navbar a{
+    margin-left: 15px;
+}
+
+
+/* About Section */
+.about{
+    width: 600px;
+    padding-top: 100px;
+    text-align: center;
+    color:#b7d5e2;
+} 
+.about h2{
+    margin-bottom: 20px;
+}
+.about p{
+    font-family: OpenSans,sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 1.09091px;
+}
+.about_img{
+    padding-top: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.skills{
+    background: #252B42;
+}
+/* My Works */
+#MyWorks{
+    display: flex;
+    flex-direction: column;
+    background-color: #df88e293;
+    color: white;
+    align-items: center;
+    padding: 20px;
+    background-color:rgba(241, 116, 210, 0.5);
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+.gallery img{
+    width: 360px;
+    height: 240px;
+    margin: 10px;
+
+}
+/* Software Skills */
+#softwareskills{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 10px;
+    align-items: center;
+    padding: 10px;
+    border-radius: 15px;
+    background: linear-gradient(to top, rgb(78, 245, 147) 50%, rgb(231, 129, 197) 50%);
+    background-size: 100% 200%;
+    background-color: black;
+    transition: all .8s;
+
+
+}
+.box:hover{
+    background-position: left bottom;
+    color:rgb(231, 129, 197);
+    border: none;
+    box-shadow: 0 0 20px rgb(78, 245, 147);
+}
+
+/* Contact Section */
+
+#contact{
+
+    display:flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: rgba(241, 116, 210, 0.5);
+    color: white;
+    padding: 30px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 30px 0px;
+}
+   .input{
+       padding: 12px;
+       margin: 15px;
+       width: 30%;
+       border: none;
+       outline: none;
+
+   }
+   #msg{
+       width: 20%;
+       padding: 20px;
+       margin: 15px;
+       border: none;
+       outline:none;
+   }
+
+   #send{
+       padding: 10px;
+       width: 10%;
+       margin: 40px;
+       border: none;
+       outline: none;
+
+   }
+   #send:hover{
+       box-shadow: 0 0 10px white;
+   }
